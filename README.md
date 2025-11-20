@@ -26,8 +26,8 @@ Acesse a aplicação no link:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/0x03c1/streamlit-demo.git
-cd streamlit-demo
+git clone https://github.com/0x03c1/streamlit-escola.git
+cd streamlit-escola
 ```
 
 Instale as dependências:
